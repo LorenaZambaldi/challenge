@@ -1,0 +1,6 @@
+﻿fullname,eid,class,"email Responsável, Pai",phone Pai,"phone Responsável, Mãe",email Mãe,email Aluno,phone Aluno,invisible,see_all
+John Doe,1234,"Sala 1,Sala 2,Sala 3,Sala 4,Sala 5, Sala 6",johndoepai@gmail.com,(19) 985504400,(11) 38839332,johndoemae@gmail.com,johndoealuno@gmail.com,11 983340440,1,yes
+John Doe,1234,"Sala 1,Sala 2,Sala 3,Sala 4,Sala 5, Sala 6",johndoepai@gmail.com,(19) 985504400,(11) 38839332,johndoemae@gmail.com,johndoealuno@gmail.com,11 983340440,1,yes
+Mary Doe,1235,"Sala 1,Sala 3",marydoepai@gmail.com,(11) 996143265,(11) 983342282,marydoemae@gmail.com,marydoealuno@gmail.com,11 983340440,0,no
+Victor Doe,1236,"Sala 6,Sala 7",victordoepai@hotmail.com,(19) 972378338,(19) 932342199,victordoemae@gmail.com,victordoealuno@gmail.com,19 974430033,0,yes
+Lorena ,1237,"Sala 3",lorenapai@hotmail.com,(19) 972378338,(19) 932342199,lorenamae@gmail.com,lorenaaluno@gmail.com,19 974430033,0,yes
